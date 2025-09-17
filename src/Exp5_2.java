@@ -16,6 +16,7 @@ public class Exp5_2 {
         }
 		
 		System.out.println("合計：" + sum);
+		// コメントテスト
 		
 	}
 
