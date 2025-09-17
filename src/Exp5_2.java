@@ -15,7 +15,7 @@ public class Exp5_2 {
 			sum += num;
         }
 		
-		System.out.println("合計：" + sum );
+		System.out.println("合計：" + sum + "!");
 		
 	}
 
